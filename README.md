@@ -1,4 +1,6 @@
 # Lâmpada Inteligente Insight
 
-Projeto de lâmpada inteligente controlada por smartphone.
+Lâmpada led IOT com esp8266 e ATmega 168.
+
+Danilo Fragoso
 
