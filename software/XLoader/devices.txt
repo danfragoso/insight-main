@@ -1,0 +1,2 @@
+Insight L0-01w;m328p;stk500;115200;
+Insight L0-01rgb;m328p;stk500;115200;
